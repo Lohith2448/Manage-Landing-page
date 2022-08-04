@@ -2,4 +2,4 @@ Manage-Landing-page is an intermediate level project based on frontend web devel
 
 You can find the website preview below: 
 
-[preview](https://managelanding-lohith.netlify.app/)
+[Click here for preview](https://managelanding-lohith.netlify.app/)
